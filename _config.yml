@@ -1,13 +1,13 @@
 # Site settings
 title: All of SL
 
-email: "sunnybenlim@gmail.com"
-url: "http://sungbinlim.github.io"
-github_url: "http://github.com/sungbinlim/sl"
+email: "minlimchochoi@gmail.com"
+url: "http://minlimchochoi.github.io"
+github_url: "http://github.com/minlimshoshoi/sl"
 github_editurl: "/blob/gh-pages"
 github_profile: "https://www.dropbox.com/s/huik76zchc9n5dl/CV_sungbin.pdf?dl=0"
 baseurl: "/sl"
-disqus_shortname: sungbinlimgithub
+disqus_shortname: minlimchochoi
 
 exclude:
   - README.md
